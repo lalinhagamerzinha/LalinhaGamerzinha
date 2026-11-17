@@ -49,7 +49,7 @@
 </h1>
 
 <h2>
-  Estudante de Análise e Desenvolvimento de Sistemas (1/5), com foco principal em desenvolvimento Front-end <br>
+  Estudante de Análise e Desenvolvimento de Sistemas (1/5).
   
   Aprendendo PIXEL ART
 </h2>
